@@ -22,17 +22,8 @@ WHEN I test API POST, PUT, and DELETE routes in Insomnia
 THEN I am able to successfully create, update, and delete data in my database
 
 # Screenshots
-
+![Insomnia Img](./db/challenge13-2022-07-05%20164305.png)
+![Insomnia Img](./db/challenge13-%202022-07-05%20164342.png)
+![Insomnia Img](./db/challenge13-2022-07-05%20164427.png)
 # Links
-
-# Notes
-
-
-
-    Product belongs to Category, as a category can have multiple products but a product can only belong to one category.
-Category has many Product models.
-
-Product belongs to many Tag models. Using the ProductTag through model, allow products to have multiple tags and tags to have many products.
-Tag belongs to many Product models.
-
-Fill out the unfinished routes in product-routes.js, tag-routes.js, and category-routes.js to perform create, read, update, and delete operations using your Sequelize models.
+https://drive.google.com/file/d/1tCpjw1wCLH_AtUPtcVgm2Mo0DYfDWDJt/view
