@@ -22,6 +22,9 @@ THEN the data for each of these routes is displayed in a formatted JSON
 WHEN I test API POST, PUT, and DELETE routes in Insomnia
 THEN I am able to successfully create, update, and delete data in my database
 
+# Run the App
+Install all packages by running npm i in the terminal. Then once that is completed run npm start this should get a notification to pop up in the terminal saying the app is running on port 3001. This app does not have anything to the client side. This project is just to showcase my backend skills. Once the port is running you can go to a platform like Insomnia or Postman and test each route. To close the port go back to the terminal and hit ctrl + c.
+ 
 # Screenshots
 ![Insomnia Img](./db/challenge13-2022-07-05%20164305.png)
 ![Insomnia Img](./db/challenge13-%202022-07-05%20164342.png)
